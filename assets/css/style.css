@@ -9,3 +9,54 @@ body {
     font-family: Orienta, sans-serif;
     font-weight: 300;
 }
+
+h1, h2 {
+    font-family: Offside, sans-serif;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+
+header {
+    color: #010000;
+    height: 80px;
+    background-color: black;
+    width: 100%;
+}
+
+#logo {
+    background-color: red;
+    /* font-size: px; */
+    float: left;
+    text-decoration: none;
+    color:#010000;
+    padding: 20px;
+    position: relative;
+    margin-left: 5%;
+
+
+}
+
+nav {
+    float: right;
+    background-color: blue;
+    /* height: 100%; */
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin-right: 5%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
