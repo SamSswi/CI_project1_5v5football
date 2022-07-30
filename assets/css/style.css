@@ -58,4 +58,10 @@ nav a:hover {
 }
 
 /* Hero image */
-
+#hero-image {
+    background: url(../images/soccer-g1bd653242_1920.jpg) no-repeat center;
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    overflow: hidden;
+}
