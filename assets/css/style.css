@@ -18,14 +18,13 @@ h1, h2 {
 }
 
 header {
-    /* background-color: black; */
+    background-color: #e1e1e1;
     position: sticky;
     height: 80px;
     z-index: 1;
 }
 
 #logo {
-    /* background-color: red; */
     float: left;
     text-decoration: none;
     position: relative;
@@ -36,7 +35,6 @@ header {
 
 nav {
     float: right;
-    /* background-color: blue; */
     margin: 20px;
     margin-right: 5%;
 }
