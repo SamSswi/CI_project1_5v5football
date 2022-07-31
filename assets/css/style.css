@@ -93,9 +93,20 @@ nav a:hover {
     margin: 20px 15%;
 }
 
+/* events section */
+
 #events {
     width: auto;
     height: 200px;
     background-color: #010000;
     opacity: 0.6;
+}
+
+#events > div {
+    float:left;
+    margin: 20px 5%;
+    background-color: #e1e1e1;
+    height: 160px;
+    width: 40%;
+
 }
