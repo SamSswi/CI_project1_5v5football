@@ -74,3 +74,14 @@ nav a:hover {
     width: 100%;
     overflow: hidden;
 }
+
+#welcome-message {
+    position: absolute;
+    height: 33%;
+    width: 33%;
+    color: #e1e1e1;
+    font-size: 150%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 5%;
+}
