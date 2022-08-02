@@ -17,6 +17,11 @@ h1, h2 {
     letter-spacing: 3px;
 }
 
+p {
+    padding: 5px 2%;
+    line-height: 1.6;
+}
+
 header {
     background-color: #e1e1e1;
     top: 0;
