@@ -97,7 +97,7 @@ nav a:hover {
 
 #events {
     width: auto;
-    height: 200px;
+    height: 120px;
     background-color: #010000;
     opacity: 0.6;
 }
@@ -106,8 +106,7 @@ nav a:hover {
     float:left;
     margin: 20px 5%;
     background-color: #e1e1e1;
-    height: 160px;
+    height: 80px;
     width: 40%;
     text-align: center;
-    vertical-align: middle;
 }
