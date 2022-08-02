@@ -93,12 +93,14 @@ nav a:hover {
     margin: 20px 15%;
 }
 
+
+
 /* events section */
 
 #events {
     width: auto;
     height: 120px;
-    opacity: 0.6;
+    opacity: 0.7;
 }
 
 #events > div {
