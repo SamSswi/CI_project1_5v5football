@@ -98,7 +98,11 @@ nav a:hover {
     margin: 20px 15%;
 }
 
-
+.inline-links {
+    text-decoration: none;
+    color: blue;
+    
+}
 
 /* events section */
 
