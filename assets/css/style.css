@@ -135,6 +135,10 @@ nav a:hover {
     float: left;
 }
 
+#venue-text {
+    margin: 20px 5% 0px;
+}
+
 #venue-header {
     text-align: center;
 }
