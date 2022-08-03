@@ -124,7 +124,13 @@ nav a:hover {
 
 /* Venue page */
 #venue-pictures {
-    
+    margin: 20px 5%;
+}
+
+.venue-photo {
+    width: 100%;
+    height: auto;
+    float: left;
 }
 
 
