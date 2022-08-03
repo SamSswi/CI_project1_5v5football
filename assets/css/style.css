@@ -188,4 +188,13 @@ footer {
         clear: left;
         float: left;
     }
+    
+    #hero-image {
+        height: 500px;
+    }
+
+    #dimmer {
+        background-color: #a7372b;
+        opacity: 0.8;
+    }
 }
