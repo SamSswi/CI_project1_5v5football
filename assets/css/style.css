@@ -137,6 +137,8 @@ nav a:hover {
 /* footer */
 
 footer {
+    position: relative;
+    clear: both;
     background-color: #e1e1e1;
     padding: 15px;
     margin-top: 20px;
