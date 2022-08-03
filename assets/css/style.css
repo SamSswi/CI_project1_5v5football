@@ -184,4 +184,8 @@ footer {
         margin: 5px;
         margin-left: 5%;
     }
+    nav a {
+        clear: left;
+        float: left;
+    }
 }
