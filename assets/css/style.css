@@ -156,4 +156,8 @@ footer {
         float: left;
         margin-left: 5%;
     }
+
+    #welcome-message {
+        width: 50%;
+    }
 }
