@@ -123,6 +123,15 @@ nav a:hover {
 }
 
 /* Venue page */
+
+#venue-text {
+    margin: 20px 20% 0px;
+}
+
+#venue-header {
+    text-align: center;
+}
+
 #venue-pictures {
     column-count: 2;
     margin: 20px 5%;
@@ -134,15 +143,6 @@ nav a:hover {
     height: auto;
     float: left;
 }
-
-#venue-text {
-    margin: 20px 20% 0px;
-}
-
-#venue-header {
-    text-align: center;
-}
-
 
 /* footer */
 
