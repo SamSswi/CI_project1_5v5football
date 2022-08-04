@@ -196,6 +196,14 @@ footer {
     #venue-text {
         margin: 20px 5% 0px;
     }
+
+    #venue-pictures {
+        column-count: 1;
+    }
+
+    .venue-photo {
+        margin-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 500px) {
