@@ -192,6 +192,10 @@ footer {
     .general-information {
         margin: 20px 5%;
     }
+
+    #venue-text {
+        margin: 20px 5% 0px;
+    }
 }
 
 @media screen and (max-width: 500px) {
