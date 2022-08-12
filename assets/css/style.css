@@ -9,6 +9,7 @@ body {
     font-family: Orienta, sans-serif;
     font-weight: 300;
     color:#010000;
+    text-align: justify;
 }
 
 h1, h2 {
@@ -36,7 +37,7 @@ header {
     position: relative;
     margin: 20px;
     margin-left: 5%;
-    color:#010000;
+    color:#fff;
  }
 
 nav {
@@ -49,18 +50,18 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 5px 10px;
-    color:#010000;
+    color:#fff;
 }
 
 nav a:hover {
     border-radius: 5px;
-    border: #010000 solid 1px;
+    border: #fff solid 1px;
 }
 
 .active {
     border-radius: 5px;
-    border: #010000 solid 1px;
-    background-color: rgba(163, 163, 163);
+    border: #fff solid 1px;
+    background-color: #f36c21;
 }
 
 /* Hero image */
