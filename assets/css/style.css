@@ -84,13 +84,15 @@ nav a:hover {
 #welcome-message {
     background-color: #f36c21;
     position: absolute;
-    height: 33%;
+    /* height: 33%; */
     width: 33%;
     color: #e1e1e1;
     font-size: 150%;
     text-align: center;
     margin-top: 10%;
     margin-left: 5%;
+    padding: 1%;
+    border-radius: 5px;
 }
 
 /* general information section */
