@@ -284,6 +284,10 @@ footer {
         width: 42%;
     }
 
+    .general-information > h2 {
+        text-align: left;
+    }
+
     #venue-pictures {
         column-count: 1;
     }
