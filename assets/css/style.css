@@ -130,6 +130,11 @@ nav a:hover {
     color:#fff;
 }
 
+.day-time {
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
 /* Venue page */
 
 #venue-text {
