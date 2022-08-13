@@ -180,7 +180,6 @@ footer {
 @media screen and (max-width: 950px) {
     header {
         height: 162px;
-        text-align: left;
     }
     
     nav {
@@ -188,27 +187,27 @@ footer {
         float: left;
         margin-left: 5%;
     }
-
+    
     #welcome-message {
         width: 75%;
     }
-
+    
     /* #dimmer {
         opacity: 0.7;
     } */
-
+    
     .general-information {
         margin: 20px 5%;
     }
-
+    
     #venue-text {
         margin: 20px 5% 0px;
     }
-
+    
     #venue-pictures {
         column-count: 1;
     }
-
+    
     .venue-photo {
         margin-bottom: 10px;
     }
@@ -216,6 +215,7 @@ footer {
 
 @media screen and (max-width: 500px) {
     header {
+        text-align: left;
         height: 220px;
         font-weight: 200;
         font-size: smaller;
