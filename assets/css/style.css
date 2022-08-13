@@ -167,8 +167,8 @@ nav a:hover {
 
 .venue-photo {
     width: 100%;
-    /* height: auto; */
-    max-height: 500px;
+    height: auto;
+    /* max-height: 500px; */
     float: left;
     margin: 10px 0;
 }
