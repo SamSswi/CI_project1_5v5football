@@ -246,7 +246,7 @@ footer {
     }
     
     #venue-pictures {
-        column-count: 1;
+        column-count: 2;
     }
     
     .venue-photo {
@@ -281,5 +281,9 @@ footer {
     #events > div {
         margin: 20px 2%;
         width: 42%;
+    }
+
+    #venue-pictures {
+        column-count: 1;
     }
 }
