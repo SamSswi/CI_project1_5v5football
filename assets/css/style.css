@@ -232,11 +232,16 @@ footer {
     
     #welcome-message {
         width: 75%;
+        opacity: 0.9;
     }
     
-    /* #dimmer {
-        opacity: 0.7;
-    } */
+    #dimmer {
+        opacity: 0;
+    }
+
+    #join-us {
+        opacity: 0.9;
+    }
     
     .general-information {
         margin: 20px 5%;
