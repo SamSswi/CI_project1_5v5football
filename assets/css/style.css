@@ -257,13 +257,8 @@ footer {
     }
     
     #hero-image {
-        height: 500px;
+        height: 550px;
     }
-
-    /* #dimmer {
-        background-color: #a7372b;
-        opacity: 0.8;
-    } */
 
     #events > div {
         margin: 20px 2%;
