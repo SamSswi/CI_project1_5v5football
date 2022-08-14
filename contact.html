@@ -36,16 +36,20 @@
         </div>
         <div id="form-container">
             <form action="#" method="post" id="form">
-                <label for=""></label>
-                <input type="text">
-                <label for=""></label>
-                <input type="text">
-                <label for=""></label>
-                <input type="text">
-                <label for=""></label>
-                <input type="text">
-                <label for=""></label>
-                <input type="text" name="" id="">
+                <label for="first-name">First Name:</label>
+                <input type="text" name="first-name" id="first-name" required placeholder="Your first name..">
+                <label for="last-name">Last Name:</label>
+                <input type="text" name="last-name" id="last-name" required placeholder="Your last name..">
+                <label for="email"></label>
+                <input type="email" name="email" id="email" required placeholder="Your email address..">
+                <label for="phone-number"></label>
+                <input type="tel" name="phone-number" id="phone-number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required placeholder="Your phone number..">
+                <label for="whatsapp-group">I would like to be added to the community's whatsapp group</label>
+                <input type="checkbox" name="whatsapp-group" id="whatsapp-group">
+                <label for="email-notification">I would like to be notified by email about future events</label>
+                <input type="checkbox" name="email-notification" id="email-notification">
+                <label for="suggestions"></label>
+                <input type="textarea" name="suggestions" id="suggestions">
             </form>
         </div>
     </section>
