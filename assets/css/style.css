@@ -218,7 +218,7 @@ nav a:hover {
     border-radius: 5px;
 }
 
-#form {
+#form-container {
     background-color: #010000;
     width: 45%;
     height: inherit;
