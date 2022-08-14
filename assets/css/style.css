@@ -222,8 +222,7 @@ nav a:hover {
     background-color: #e1e1e1;
     width: 28.7%;
     height: inherit;
-    padding: 1.3%;
-    padding-right: 15%;
+    padding: 5% 15% 5% 1.3%;
     float:right;
     margin-right: 5%;
 }
