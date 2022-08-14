@@ -218,6 +218,15 @@ nav a:hover {
     border-radius: 5px;
 }
 
+#form {
+    background-color: #010000;
+    width: 45%;
+    height: inherit;
+    padding: 1.3%;
+    float:right;
+    margin-right: 5%;
+}
+
 /* footer */
 
 footer {
