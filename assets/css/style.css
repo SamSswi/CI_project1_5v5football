@@ -199,6 +199,15 @@ nav a:hover {
     height: 700px;
 }
 
+#form-dimmer {
+    position: absolute;
+    background-color: #f36c21;
+    opacity: 0.6;
+    height: inherit;
+    width: 100%;
+    overflow: hidden;
+}
+
 /* footer */
 
 footer {
