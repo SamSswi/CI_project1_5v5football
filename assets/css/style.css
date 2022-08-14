@@ -193,8 +193,10 @@ nav a:hover {
 /* Contact page */
 
 #form-background {
+    background: url(../images/soccer-g418e673aa_1920.jpg)  no-repeat center;
     background-color: #f36c21;
     opacity: 0.5;
+    height: 700px;
 }
 
 /* footer */
