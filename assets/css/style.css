@@ -24,7 +24,7 @@ p {
 }
 
 header {
-    background-color: #253780;
+    background-color: #00529F;
     top: 0;
     position: sticky;
     height: 82px;
@@ -61,7 +61,7 @@ nav a:hover {
 .active {
     border-radius: 5px;
     border: #fff solid 1px;
-    background-color: #f36c21;
+    background-color: #FEBE10;
 }
 
 /* Hero image */
@@ -136,7 +136,7 @@ nav a:hover {
     font-size: larger;
     float:left;
     margin: 20px 5%;
-    background-color: #f36c21;
+    background-color: #EE324E;
     height: auto;
     width: 36%;
     text-align: center;
