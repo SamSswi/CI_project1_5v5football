@@ -232,6 +232,12 @@ nav a:hover {
 
 }
 
+#event-choice {
+    font-size: 20px;
+    font-family: inherit;
+    padding: 5px;
+}
+
 /* footer */
 
 footer {
