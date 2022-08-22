@@ -220,9 +220,17 @@ nav a:hover {
     font-size: 2em;
 }
 
+#form-container label {
+    font-size: 20px;
+}
+
 #form-container  input {
-    font-size: 1em;
+    font-size: 20px;
     width: 100%;
+    margin: 0px 0px 20px;
+    padding: 5px;
+    line-height: 20px;
+
 }
 
 /* footer */
