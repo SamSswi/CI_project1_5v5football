@@ -239,6 +239,16 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+#suggestions {
+    font-size: 20px;
+    width: 100%;
+    margin: 15px 0px 20px;
+    padding: 5px;
+    line-height: 20px;
+    height: 200px;
+    margin-top: 15px;
+}
+
 /* footer */
 
 footer {
