@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Offside&family=Orienta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Orienta&display=swap');
 * {
     padding: 0;
     border: none;
@@ -6,14 +6,14 @@
 }
 
 body {
-    font-family: Orienta, sans-serif;
+    font-family: Quicksand, sans-serif;
     font-weight: 300;
     color:#010000;
     text-align: justify;
 }
 
 h1, h2 {
-    font-family: Offside, sans-serif;
+    font-family: Quicksand, sans-serif;
     font-weight: 400;
     letter-spacing: 3px;
 }
