@@ -221,9 +221,17 @@ nav a:hover {
     font-size: 2em;
 }
 
+
 #form-container label {
     font-size: 20px;
 }
+
+/* .form-element {
+    font-size: 20px;
+    border: #010000 solid 1px;
+    padding: 15px;
+    border-radius: 5px;
+} */
 
 .text-input {
     font-size: 20px;
