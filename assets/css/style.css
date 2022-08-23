@@ -202,6 +202,11 @@ nav a:hover {
     text-align: justify;
 }
 
+#form-description > p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
 #form-container {
     background-color: #e1e1e1;
     width: 28.7%;
