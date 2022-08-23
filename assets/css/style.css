@@ -270,6 +270,12 @@ nav a:hover {
     font-family: inherit;
 }
 
+#submit:hover{
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #FEBE10;
+}
+
 /* footer */
 
 footer {
