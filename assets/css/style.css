@@ -227,26 +227,32 @@ nav a:hover {
     font-size: 20px;
     width: 100%;
     margin: 0px 0px 20px;
-    padding: 5px;
+    padding: 15px;
     line-height: 20px;
+    border: #010000 solid 1px;
+    border-radius: 5px;
 
 }
 
 #event-choice {
     font-size: 20px;
     font-family: inherit;
-    padding: 5px;
+    padding: 15px;
     margin-bottom: 20px;
+    border: #010000 solid 1px;
+    border-radius: 5px;
 }
 
 #suggestions {
     font-size: 20px;
     width: 100%;
     margin: 15px 0px 20px;
-    padding: 5px;
+    padding: 15px;
     line-height: 20px;
     height: 200px;
     margin-top: 15px;
+    border: #010000 solid 1px;
+    border-radius: 5px;
 }
 
 /* footer */
