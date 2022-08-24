@@ -336,6 +336,23 @@ footer {
 
     /* Contact page */
 
+    #form-description {
+        position: static;
+        width: 90%;
+        padding: 20px 5% 20px 5%;
+    }
+
+    #form-description > h2 {
+        margin: 20px 0px 20px 0px;
+        padding-bottom: 10px;
+    }
+
+    #form-container{
+        clear: left;
+        float: left;
+        width: 86%;
+        padding: 20px 9% 20px 5%;
+    }
 
 }
 
