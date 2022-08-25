@@ -296,6 +296,12 @@ footer {
     header {
         height: 162px;
     }
+
+    h1, h2 {
+        /* font-family: Quicksand, sans-serif;
+        font-weight: 400; */
+        letter-spacing: 1px;
+    }
     
     nav {
         clear: left;
@@ -369,11 +375,11 @@ footer {
     }
     nav {
         margin: 5px;
-        margin-left: 5%;
     }
     nav a {
-        clear: left;
-        float: left;
+        /* clear: left;
+        float: left; */
+        font-size: smaller;
     }
     
     #hero-image {
