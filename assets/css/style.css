@@ -363,23 +363,26 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
+    
     header {
         text-align: left;
-        height: 220px;
+        height: 151px;
         font-weight: 200;
         font-size: smaller;
     }
     #logo {
-        margin: 10px;
+        margin: 5px;
         margin-left: 5%;
+        letter-spacing: 2px;
     }
     nav {
-        margin: 5px;
+        margin-left: 5%;
     }
     nav a {
         /* clear: left;
         float: left; */
         font-size: smaller;
+        letter-spacing: 1px;
     }
     
     #hero-image {
