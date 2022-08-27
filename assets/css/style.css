@@ -158,6 +158,13 @@ nav a:hover {
     color: green;
 }
 
+.general-information h5 {
+    display: inline-block;
+    width: 75%;
+    font-size: 21px;
+    padding: 0px 0px 1% 5%;
+}
+
 .inline-links {
     text-decoration: none;
     color: blue;
