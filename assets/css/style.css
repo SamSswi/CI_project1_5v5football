@@ -76,8 +76,8 @@ nav a:hover {
 #dimmer {
     position: absolute;
     /* background-color: #fff; */
-    background-color: #010000;
-    opacity: 0.2;
+    background-color: rgb(48, 47, 47);
+    opacity: 0.6;
     height: inherit;
     width: 100%;
     overflow: hidden;
