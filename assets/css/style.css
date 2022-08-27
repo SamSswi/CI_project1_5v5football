@@ -158,7 +158,7 @@ nav a:hover {
     color: green;
 }
 
-.general-information h5 {
+.step {
     background-color: #e1e1e1;
     display: inline-block;
     width: 75%;
@@ -166,7 +166,7 @@ nav a:hover {
     padding: 0px 0px 1% 5%;
 }
 
-.general-information p {
+.step-description {
     background-color: #f36c21;
     width: 75%;
     padding-left: 5%;
