@@ -141,7 +141,13 @@ nav a:hover {
     width: 50%;
 }
 
+.lefty {
+    float: left;
+}
 
+.righty {
+    float: right;
+}
 .inline-links {
     text-decoration: none;
     color: blue;
