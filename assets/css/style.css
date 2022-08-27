@@ -148,6 +148,16 @@ nav a:hover {
 .righty {
     float: right;
 }
+
+.general-information i {
+    height: 70px;
+    float: left;
+    width: 20%;
+    font-size: 65px;
+    text-align: center;
+    color: green;
+}
+
 .inline-links {
     text-decoration: none;
     color: blue;
