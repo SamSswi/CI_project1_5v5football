@@ -188,6 +188,12 @@ nav a:hover {
     font-size: 21px;
 }
 
+#bottom p{
+    background-color: #f36c21;
+    width: 98%;
+    text-align: justify;
+}
+
 .inline-links {
     text-decoration: none;
     color: blue;
