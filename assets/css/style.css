@@ -134,6 +134,14 @@ nav a:hover {
     margin: 20px 0px 10px 0px;
 }
 
+.general-information div {
+    background-color: #253780;
+    padding: 10px;
+    margin: 10px 0px;
+    width: 50%;
+}
+
+
 .inline-links {
     text-decoration: none;
     color: blue;
