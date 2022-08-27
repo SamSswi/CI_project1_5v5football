@@ -139,6 +139,7 @@ nav a:hover {
     padding: 1%;
     margin: 1%;
     width: 46%;
+    /* height: 150px; */
 }
 
 .lefty {
@@ -172,6 +173,19 @@ nav a:hover {
     padding-left: 5%;
     margin-left: 20%;
     text-align: justify;
+}
+
+#bottom {
+    width: 96%;
+    float: left;
+}
+
+#bottom h5{
+    width: 98%;
+    /* margin: 0px 5% 0px 5%; */
+    text-align: center;
+    background-color: #e1e1e1;
+    font-size: 21px;
 }
 
 .inline-links {
