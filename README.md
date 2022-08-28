@@ -43,3 +43,17 @@ organize or participate in football events.
     - The event content division has a red background to make it stand out from the rest of the website content and every line of text is preceded by an icon to express in a clear way what the text means.
 
 ![alt text](./assets/images/Events.jpg)
+
+- ### The Website Footer
+    - The Website Footer encourages the user to get in contact with teh community by containing familiar social media icons.
+    - The Website Footer is important because it provides the user with other ways to contact the community than the Contact page. 
+    - The blue color and the familiarity of the social media icons provide the user with a sense of security and trustworthyness.
+
+![alt text](./assets/images/footer.jpg)
+
+- ### The Venue Page
+    - The Venue Page is designed to provide useful information for the user about the place 5v5 Football Groningen rents during their events.
+    - The description of the Venue presents information like the address and the facitlies provided at the location. The icons in the text are meant to make the text easier to read and to provide the maximum amount of information on a quick scan of the text.
+    - The gallery has the purpose to give the user an idea of what the Venue and its facilities look like. 
+
+![alt text](./assets/images/venuePage.jpg)
