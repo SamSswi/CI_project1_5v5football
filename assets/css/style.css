@@ -362,8 +362,7 @@ footer {
 
 @media screen and (max-width: 1100px) {
 
-    .general-information,
-    #events {
+    .general-information{
         margin: 20px 5%;
     }
 }
@@ -409,6 +408,10 @@ footer {
         opacity: 0.9;
     }
 
+    #gi-section {
+        height: 900px;
+    }
+
     .general-information div {
         clear: left;
         float: left;
@@ -419,6 +422,11 @@ footer {
 
     #bottom {
         height: 180px;
+    }
+
+    #events {
+        height: 330px;
+        margin: 20px 5%;
     }
 
 
@@ -488,6 +496,10 @@ footer {
         height: 550px;
     }
 
+    #gi-section {
+        height: 1100px;
+    }
+
     .general-information>h2 {
         text-align: left;
     }
@@ -507,6 +519,11 @@ footer {
 
     #bottom {
         height: 240px;
+    }
+
+    #events {
+        height: 480px;
+        margin: 20px 5%;
     }
 
     #events>div {
