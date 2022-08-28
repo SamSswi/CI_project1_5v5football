@@ -202,6 +202,7 @@ nav a:hover {
     height: 160px;
     /* opacity: 0.7; */
     margin-bottom: 40px;
+    margin: 20px 15%;
 }
 
 #events > div {
@@ -406,6 +407,10 @@ footer {
         width: 98%;
         height: 100px;
         font-size: smaller;
+    }
+
+    #bottom {
+        height: 180px;
     }
 
 
