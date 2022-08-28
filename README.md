@@ -32,8 +32,14 @@ organize or participate in football events.
 
 ![alt text](./assets/images/HeroImage.jpg)
 
-- ### General Information Section
+- ### The General Information Section
     - This section explains the user what version of football the community plays, the steps one needs to undertake to be a part of the 5v5 Football Groningen community and the contribution one is expected to bring once they become part of the community.
     - To keep the user engaged and interested in reading the General Information  section text, green icons are used to represent the steps to join the community.
 
 ![alt text](./assets/images/generalInfo.jpg)
+
+- ### The Events Section
+    - The Events section informs the user on the day, time and the location of the events the community organizes.
+    - The event content division has a red background to make it stand out from the rest of the website content and every line of text is preceded by an icon to express in a clear way what the text means.
+
+![alt text](./assets/images/Events.jpg)
