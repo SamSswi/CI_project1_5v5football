@@ -66,9 +66,20 @@ organize or participate in football events.
 ![alt text](./assets/images/contactPage.jpg)
 
 
-- ### Testing
+## Testing
     - I tested the website works in different browsers: Microsoft Edge, Google Chrome, Mozila Firefox, Safari, Opera.
     - I confirmed this project is responsive and functions on all standard screen sizes using devtools device toolbar.
     - I confirmed the website pages' content is readable and easy to understand.
     - I confirmed the form works: requires entry in all the fields except for the Suggestions box, only will accept an email address in the email input field and the submit button works.
+
+## Bugs
+- ### Solved bugs
+    - The General Information section had an h2 title then jumped to an h4 and h5 subtitles. The Validator pointed out the error and I used h3 and h4 headers instead.
+    - The Events section was missing a header, an error also discovered when testing the code with a Validator. I solved the issue by adding the "Our events:" header to the section.
+
+    ![alt text](./assets/images/contactPage.jpg)
+
+    - During the Validator testing, it was discovered the attribute "type" was used on the "select" element in the form. I removed the "type" attribute.
+    - I used the following "pattern" attribute in the "tel" input:  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}". This pattern required the users to introduce the dash character while typing in the number and also a fixed number of numeric characters, when the users were more likely to go with phone numbers like these: 0684754463, 684487132, +31680004712, etc. As a solution to the problem I removed the pattern so the users can freely introduce their phone number in a format familiar to them.
+
 
