@@ -135,7 +135,6 @@ nav a:hover {
 }
 
 .general-information div {
-    background-color: #253780;
     padding: 1%;
     margin: 1%;
     width: 46%;
@@ -160,7 +159,6 @@ nav a:hover {
 }
 
 .step {
-    background-color: #e1e1e1;
     display: inline-block;
     width: 75%;
     font-size: 21px;
@@ -168,7 +166,6 @@ nav a:hover {
 }
 
 .step-description {
-    background-color: #f36c21;
     width: 75%;
     padding-left: 5%;
     margin-left: 20%;
@@ -182,15 +179,12 @@ nav a:hover {
 
 #bottom h5{
     width: 98%;
-    /* margin: 0px 5% 0px 5%; */
     text-align: center;
-    background-color: #e1e1e1;
     font-size: 21px;
     padding-bottom: 1%;
 }
 
 #bottom p{
-    background-color: #f36c21;
     width: 98%;
     text-align: justify;
 }
