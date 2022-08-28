@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Orienta&display=swap');
+
 * {
     padding: 0;
     border: none;
@@ -8,11 +9,12 @@
 body {
     font-family: Quicksand, sans-serif;
     font-weight: 300;
-    color:#010000;
+    color: #010000;
     text-align: justify;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Quicksand, sans-serif;
     font-weight: 400;
     letter-spacing: 3px;
@@ -37,8 +39,8 @@ header {
     position: relative;
     margin: 20px;
     margin-left: 5%;
-    color:#fff;
- }
+    color: #fff;
+}
 
 nav {
     float: right;
@@ -50,7 +52,7 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 5px 10px;
-    color:#fff;
+    color: #fff;
 }
 
 nav a:hover {
@@ -109,7 +111,6 @@ nav a:hover {
     bottom: 55%;
     right: 6%;
     opacity: 0.9;
-    
 }
 
 /* general information section */
@@ -177,14 +178,14 @@ nav a:hover {
     float: left;
 }
 
-#bottom h5{
+#bottom h5 {
     width: 98%;
     text-align: center;
     font-size: 21px;
     padding-bottom: 1%;
 }
 
-#bottom p{
+#bottom p {
     width: 98%;
     text-align: justify;
 }
@@ -199,9 +200,9 @@ nav a:hover {
     margin: 20px 15%;
 }
 
-#events > div {
+#events>div {
     font-size: larger;
-    float:left;
+    float: left;
     margin: 20px 5%;
     background-color: #EE324E;
     height: auto;
@@ -209,7 +210,7 @@ nav a:hover {
     text-align: center;
     padding: 2%;
     border-radius: 5px;
-    color:#fff;
+    color: #fff;
 }
 
 .day-time {
@@ -242,7 +243,7 @@ nav a:hover {
     bottom: 70px;
     right: 6%;
     opacity: 0.9;
-    
+
 }
 
 #venue-pictures {
@@ -268,14 +269,14 @@ nav a:hover {
     text-align: justify;
 }
 
-#form-description > h2 {
+#form-description>h2 {
     margin-bottom: 60px;
     font-size: 180%;
     border-bottom: #EE324E solid 2px;
     padding-bottom: 10px;
 }
 
-#form-description > p{
+#form-description>p {
     font-size: 20px;
     margin-bottom: 20px;
 }
@@ -284,7 +285,7 @@ nav a:hover {
     background-color: #e1e1e1;
     width: 28.7%;
     padding: 5% 20% 5% 1.3%;
-    float:right;
+    float: right;
     font-size: 2em;
 }
 
@@ -327,7 +328,7 @@ nav a:hover {
     font-family: inherit;
 }
 
-#submit:hover{
+#submit:hover {
     cursor: pointer;
     font-weight: bold;
     background-color: #FEBE10;
@@ -348,19 +349,21 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
 .social-networks i {
     font-size: 160%;
     padding: 0 10%;
-    color:#fff;
+    color: #fff;
 
 }
 
 @media screen and (max-width: 1100px) {
-    .general-information, #events {
+
+    .general-information,
+    #events {
         margin: 20px 5%;
     }
 }
@@ -370,33 +373,44 @@ footer {
         height: 162px;
     }
 
-    h1, h2 {
+    h1,
+    h2 {
         /* font-family: Quicksand, sans-serif;
         font-weight: 400; */
         letter-spacing: 1px;
     }
-    
+
     nav {
         clear: left;
         float: left;
         margin-left: 5%;
     }
-    
+
     #welcome-message {
         width: 75%;
         opacity: 0.9;
     }
-    
+
     #dimmer {
-        opacity: 0;
+        opacity: 0.6;
     }
 
     #join-us {
+        background-color: #FEBE10;
+        color: #fff;
+        font-size: 150%;
+        text-align: center;
+        text-decoration: none;
+        position: fixed;
+        padding: 1.3%;
+        border-radius: 5px;
+        bottom: 70px;
+        right: 6%;
         opacity: 0.9;
     }
 
     .general-information div {
-        clear:left;
+        clear: left;
         float: left;
         width: 98%;
         height: 100px;
@@ -409,15 +423,15 @@ footer {
 
 
     /* Venue page */
-    
+
     #venue-text {
         margin: 20px 5% 0px;
     }
-    
+
     #venue-pictures {
         column-count: 2;
     }
-    
+
     .venue-photo {
         margin-bottom: 10px;
     }
@@ -430,12 +444,12 @@ footer {
         padding: 20px 5% 20px 5%;
     }
 
-    #form-description > h2 {
+    #form-description>h2 {
         margin: 20px 0px 20px 0px;
         padding-bottom: 10px;
     }
 
-    #form-container{
+    #form-container {
         clear: left;
         float: left;
         width: 86%;
@@ -445,43 +459,46 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-    
+
     header {
         text-align: left;
         height: 151px;
         font-weight: 200;
         font-size: smaller;
     }
+
     #logo {
         margin: 5px;
         margin-left: 5%;
         letter-spacing: 2px;
     }
+
     nav {
         margin-left: 5%;
     }
+
     nav a {
         /* clear: left;
         float: left; */
         font-size: smaller;
         letter-spacing: 1px;
     }
-    
+
     #hero-image {
         height: 550px;
     }
 
-    .general-information > h2 {
+    .general-information>h2 {
         text-align: left;
     }
 
     .general-information i {
         height: 50px;
         font-size: 40px;
-    }    
+    }
 
     .general-information div {
-        clear:left;
+        clear: left;
         float: left;
         width: 98%;
         height: 130px;
@@ -492,7 +509,7 @@ footer {
         height: 240px;
     }
 
-    #events > div {
+    #events>div {
         margin: 20px 2%;
         width: 92%;
         float: left;
@@ -506,7 +523,7 @@ footer {
     }
 
     /* Contact page */
-    #form-container{
+    #form-container {
         clear: left;
         float: left;
         width: 80%;
