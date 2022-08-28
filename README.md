@@ -82,4 +82,20 @@ organize or participate in football events.
     - During the Validator testing, it was discovered the attribute "type" was used on the "select" element in the form. I removed the "type" attribute.
     - I used the following "pattern" attribute in the "tel" input:  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}". This pattern required the users to introduce the dash character while typing in the number and also a fixed number of numeric characters, when the users were more likely to go with phone numbers like these: 0684754463, 684487132, +31680004712, etc. As a solution to the problem I removed the pattern so the users can freely introduce their phone number in a format familiar to them.
 
+## Validator Testing
+- ### HTML
+    - No errors were returned after testing with official W3C validator.
+- ### CSS 
+    - No errors were returned after testing with the official Jigsaw validator.
+- ### Accessibility
+    - I confirmed the fonts and colors chosen are easy to read and the webpages are accessible by running the webside through lighthouse in devtools.
+
+    Home page
+    ![alt text](./assets/images/homeValidator.jpg)
+    Venue page
+    ![alt text](./assets/images/venueValidator.jpg)
+    Contact page
+    ![alt text](./assets/images/contactValidator.jpg)
+
+
 
