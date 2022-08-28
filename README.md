@@ -31,3 +31,9 @@ organize or participate in football events.
     = The Hero Image provides the user with clear information on club members' general profile.
 
 ![alt text](./assets/images/HeroImage.jpg)
+
+- ### General Information Section
+    - This section explains the user what version of football the community plays, the steps one needs to undertake to be a part of the 5v5 Football Groningen community and the contribution one is expected to bring once they become part of the community.
+    - To keep the user engaged and interested in reading the General Information  section text, green icons are used to represent the steps to join the community.
+
+![alt text](./assets/images/generalInfo.jpg)
