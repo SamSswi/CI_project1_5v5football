@@ -370,6 +370,12 @@ footer {
 
 }
 
+@media screen and (max-width: 1100px) {
+    .general-information {
+        margin: 20px 5%;
+    }
+}
+
 @media screen and (max-width: 950px) {
     header {
         height: 162px;
@@ -399,10 +405,7 @@ footer {
     #join-us {
         opacity: 0.9;
     }
-    
-    .general-information {
-        margin: 20px 5%;
-    }
+
 
     /* Venue page */
     
