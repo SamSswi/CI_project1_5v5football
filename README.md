@@ -10,3 +10,6 @@ They are able to find out the way to join the community, the time and location o
 access to a sign up form. This website is targeting the expats who moved to Groningen on 
 their own and don't have a big enough network of friends or acquintances to be able to 
 organize or participate in football events. 
+
+![alt text](./assets/images/AmIResponsive.jpg)
+
