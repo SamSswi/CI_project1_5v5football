@@ -97,5 +97,10 @@ organize or participate in football events.
     Contact page
     ![alt text](./assets/images/contactValidator.jpg)
 
+## Unfixed Bugs
+
+No unfixed bugs
+
+
 
 
