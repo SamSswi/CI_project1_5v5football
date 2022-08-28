@@ -118,7 +118,7 @@ nav a:hover {
     margin: 20px 15%;
 }
 
-#motivational-message{
+#motivational-message {
     text-align: center;
     font-weight: bold;
     font-size: 200%;
@@ -404,6 +404,14 @@ footer {
 
     #join-us {
         opacity: 0.9;
+    }
+
+    .general-information div {
+        clear:left;
+        float: left;
+        width: 98%;
+        height: 100px;
+        font-size: smaller;
     }
 
 
