@@ -477,14 +477,35 @@ footer {
         height: 550px;
     }
 
-    #events > div {
-        margin: 20px 2%;
-        width: 42%;
-    }
-
     .general-information > h2 {
         text-align: left;
     }
+
+    .general-information i {
+        height: 50px;
+        font-size: 40px;
+    }    
+
+    .general-information div {
+        clear:left;
+        float: left;
+        width: 98%;
+        height: 130px;
+        font-size: smaller;
+    }
+
+    #bottom {
+        height: 240px;
+    }
+
+    #events > div {
+        margin: 20px 2%;
+        width: 92%;
+        float: left;
+        clear: left;
+    }
+
+    /* Venue page */
 
     #venue-pictures {
         column-count: 1;
