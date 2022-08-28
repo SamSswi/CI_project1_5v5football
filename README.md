@@ -20,7 +20,14 @@ organize or participate in football events.
     - The navigation bar informs the user about the name of the community: 5v5 Groninen, and makes the website pages easily accessible. 
     - Located at the top of the website pages. In the left corner is shown the community name (5v5 Football Groningen), that links to the home page.
     - The other links are in the right corner: Home, Venue, Contact; which link to every page on the website.
-    - The font used in the navigation bar and on the rest of the website content is chosen to look informal and friendly with a color chosen to contrast with the background.
-    - The navigation link that links to the current page is highlighted in a bright color to facilitate the user's navigation through the website. 
+    - The font used in the navigation bar and on the rest of the website content is chosen to look informal and friendly with a white color chosen to contrast with the background which is blue.
+    - The navigation link that links to the current page is highlighted in a bright yellow color to facilitate the user's navigation through the website. 
 
 ![alt text](./assets/images/NavBar.jpg)
+
+- ### The Hero Image
+    - The Hero Image features a welcoming message written in white on a fooball-related background image.
+    - A "Join Us" button is on the right side of the Hero Image, linking to the Contact page. The color of the button is red, contrasting with the background and its positioning is static in order to provide an easy way for the user to get in contact with the community.
+    = The Hero Image provides the user with clear information on club members' general profile.
+
+![alt text](./assets/images/HeroImage.jpg)
