@@ -57,3 +57,10 @@ organize or participate in football events.
     - The gallery has the purpose to give the user an idea of what the Venue and its facilities look like. 
 
 ![alt text](./assets/images/venuePage.jpg)
+
+- ### The Contact Page
+    - The Contact page has a form to collect detalis from the website users willing to join the community on the right side and on the left side, some helpful tips to assist the users in their completion of the form.
+    - The form collects the user's first and last names, email, phone number, what events they prefer to attend and what suggestions they have for the community.
+    - The form provides value to the user by giving them the opportunity to join 5v5 Football Groningen community.  
+
+![alt text](./assets/images/contactPage.jpg)
