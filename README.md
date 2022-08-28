@@ -13,3 +13,14 @@ organize or participate in football events.
 
 ![alt text](./assets/images/AmIResponsive.jpg)
 
+
+## Features
+
+- ### Navigation bar
+    - The navigation bar informs the user about the name of the community: 5v5 Groninen, and makes the website pages easily accessible. 
+    - Located at the top of the website pages. In the left corner is shown the community name (5v5 Football Groningen), that links to the home page.
+    - The other links are in the right corner: Home, Venue, Contact; which link to every page on the website.
+    - The font used in the navigation bar and on the rest of the website content is chosen to look informal and friendly with a color chosen to contrast with the background.
+    - The navigation link that links to the current page is highlighted in a bright color to facilitate the user's navigation through the website. 
+
+![alt text](./assets/images/NavBar.jpg)
