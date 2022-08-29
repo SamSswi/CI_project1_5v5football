@@ -23,7 +23,7 @@ their own and don't have a big enough network of friends or acquaintances to be 
 - ### The Hero Image
     - The Hero Image features a welcoming message written in white on a fooball-related background image.
     - A "Join Us" button is on the right side of the Hero Image, linking to the Contact page. The color of the button is red, contrasting with the background and its positioning is static in order to provide an easy way for the user to get in contact with the community.
-    = The Hero Image provides the user with clear information on club members' general profile.
+    - The Hero Image provides the user with clear information on club members' general profile.
 
 ![alt text](./assets/images/HeroImage.jpg)
 
