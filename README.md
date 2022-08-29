@@ -90,12 +90,12 @@ organize or participate in football events.
 - ### Accessibility
     - I confirmed the fonts and colors chosen are easy to read and the webpages are accessible by running the webside through lighthouse in devtools.
 
-    Home page
-    ![alt text](./assets/images/homeValidator.jpg)
-    Venue page
-    ![alt text](./assets/images/venueValidator.jpg)
-    Contact page
-    ![alt text](./assets/images/contactValidator.jpg)
+    Home page  
+    ![alt text](./assets/images/homeValidator.jpg)  
+    Venue page  
+    ![alt text](./assets/images/venueValidator.jpg)  
+    Contact page  
+    ![alt text](./assets/images/contactValidator.jpg)  
 
 ## Unfixed Bugs
 
