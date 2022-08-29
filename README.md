@@ -70,7 +70,7 @@ organize or participate in football events.
     - I tested the website works in different browsers: Microsoft Edge, Google Chrome, Mozila Firefox, Safari, Opera.
     - I confirmed this project is responsive and functions on all standard screen sizes using devtools device toolbar.
     - I confirmed the website pages' content is readable and easy to understand.
-    - I confirmed the form works: requires entry in all the fields except for the Suggestions box, only will accept an email address in the email input field and the submit button works.
+    - I confirmed the form works: requires entry in all the fields except for the Select element and the Suggestions box, only will accept an email address in the email input field and the submit button works.
 
 ## Bugs
 - ### Solved bugs
