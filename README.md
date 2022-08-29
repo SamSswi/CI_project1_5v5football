@@ -109,5 +109,14 @@ No unfixed bugs
 
 The live link can be found here: XXXXXXX
 
+## Credits
+
+### Content
+- The code for the footer social media links was taken from the Code Institute Love Running Project.
+
+### Media
+- The hero image was taken from [Pixabay](https://pixabay.com/).
+- The venue page images were taken from [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/).
+
 
 
