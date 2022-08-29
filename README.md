@@ -107,7 +107,7 @@ The live link can be found here: XXXXXXX
 ## Credits
 
 ### Content
-- The code for the footer social media links was taken from the Code Institute Love Running Project.
+- The code for the footer social media links was taken from the Code Institute [Love Running Project](https://ajgreaves.github.io/love-running/).
 
 ### Media
 - The hero image was taken from [Pixabay](https://pixabay.com/).
