@@ -40,7 +40,7 @@ their own and don't have a big enough network of friends or acquaintances to be 
 ![alt text](./assets/images/Events.jpg)
 
 - ### The Website Footer
-    - The Website Footer encourages the user to get in contact with teh community by containing familiar social media icons.
+    - The Website Footer encourages the user to get in contact with the community by containing familiar social media icons.
     - The Website Footer is important because it provides the user with other ways to contact the community than the Contact page. 
     - The blue color and the familiarity of the social media icons provide the user with a sense of security and trustworthyness.
 
