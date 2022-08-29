@@ -1,15 +1,10 @@
 # 5v5 Football Groningen
 
-The 5v5 Football Groningen is a website meant for the English speaking football 
-loving residents of Groningen(NL) who want to play 5 a side football in a friendly 
-setting.
+The 5v5 Football Groningen is a website meant for the English speaking football loving residents of Groningen(NL) who want to play 5 a side football in a friendly setting.
 
-The users of this website have access to the necessary information about the community. 
-They are able to find out the way to join the community, the time and location of the 
-5v5 Football Groningen events and the facilities the community rents. The users also have 
-access to a sign up form. This website is targeting the expats who moved to Groningen on 
-their own and don't have a big enough network of friends or acquintances to be able to 
-organize or participate in football events. 
+The users of this website have access to the necessary information about the community. They are able to find out the way to join the community, the time and location of the 
+5v5 Football Groningen events and the facilities the community rents. The users also have access to a sign up form. This website is targeting the expats who moved to Groningen on 
+their own and don't have a big enough network of friends or acquaintances to be able to organize or participate in football events. 
 
 ![alt text](./assets/images/AmIResponsive.jpg)
 
@@ -74,12 +69,12 @@ organize or participate in football events.
 
 ## Bugs
 - ### Solved bugs
-    - The General Information section had an h2 title then jumped to an h4 and h5 subtitles. The Validator pointed out the error and I used h3 and h4 headers instead.
-    - The Events section was missing a header, an error also discovered when testing the code with a Validator. I solved the issue by adding the "Our events:" header to the section.
-
-    ![alt text](./assets/images/contactPage.jpg)
+    - The Events section was missing a header, a warning brought up when testing the code with a Validator. I solved the issue by adding the "Our events:" header to the section.
+    ![alt text](./assets/images/ourEvents.jpg)
 
     - During the Validator testing, it was discovered the attribute "type" was used on the "select" element in the form. I removed the "type" attribute.
+    ![alt text](./assets/images/selectType.jpg)
+
     - I used the following "pattern" attribute in the "tel" input:  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}". This pattern required the users to introduce the dash character while typing in the number and also a fixed number of numeric characters, when the users were more likely to go with phone numbers like these: 0684754463, 684487132, +31680004712, etc. As a solution to the problem I removed the pattern so the users can freely introduce their phone number in a format familiar to them.
 
 ## Validator Testing
