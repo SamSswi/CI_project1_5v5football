@@ -71,6 +71,7 @@ nav a:hover {
 /* Hero image */
 
 #hero-image {
+    /* Image taken from: https://pixabay.com/photos/soccer-sport-ball-football-field-3471402/ */
     background: url(../images/soccer-g1bd653242_1920.jpg) no-repeat center;
     background-color: #010000;
     width: 100%;
